@@ -1,0 +1,13 @@
+{
+  "name": "norm",
+  "version": "1.0.0",
+  "description": "A general purpose, generic, boring package",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [ "neural netowork", "basic", "math", "norm", "anoch", "javascript features", "features" ],
+  "author": "Anoch Jeyakanthan",
+  "license": "ISC"
+}
